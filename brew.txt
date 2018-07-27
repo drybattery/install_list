@@ -1,0 +1,7 @@
+bdw-gc
+gpatch
+ncurses
+openssl
+patchelf
+pkg-config
+xz
